@@ -9,6 +9,8 @@
     <Connector scheme="tcp">
       <ConnectionFactories>
         <ConnectionFactory name="ConnectionFactory" />
+		<QueueConnectionFactory name="JmsQueueConnectionFactory" />
+		<TopicConnectionFactory name="JmsTopicConnectionFactory" />
       </ConnectionFactories>
     </Connector>
     <Connector scheme="rmi">
@@ -18,7 +20,8 @@
       </ConnectionFactories>
     </Connector>
   </Connectors>
-    
+  <LoggerConfiguration file="${openjms.home}/config/log4j.xml">
+  </LoggerConfiguration>
   <!-- Required  -->
   <DatabaseConfiguration>
     <RdbmsDatabaseConfiguration

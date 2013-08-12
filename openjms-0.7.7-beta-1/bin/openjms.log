@@ -16,3 +16,15 @@
 14:45:15.482 INFO  [main] - Server accepting connections on rmi://10.0.0.10:1099/
 14:45:15.483 INFO  [main] - JNDI service accepting connections on rmi://10.0.0.10:1099/
 14:45:15.483 INFO  [main] - Admin service accepting connections on rmi://10.0.0.10:1099/
+16:27:41.220 INFO  [main] - Server accepting connections on tcp://10.0.0.10:3035/
+16:27:41.223 INFO  [main] - JNDI service accepting connections on tcp://10.0.0.10:3035/
+16:27:41.224 INFO  [main] - Admin service accepting connections on tcp://10.0.0.10:3035/
+16:27:41.274 INFO  [main] - Server accepting connections on rmi://10.0.0.10:1099/
+16:27:41.275 INFO  [main] - JNDI service accepting connections on rmi://10.0.0.10:1099/
+16:27:41.276 INFO  [main] - Admin service accepting connections on rmi://10.0.0.10:1099/
+16:36:55.415 INFO  [main] - Server accepting connections on tcp://10.0.0.10:3035/
+16:36:55.417 INFO  [main] - JNDI service accepting connections on tcp://10.0.0.10:3035/
+16:36:55.419 INFO  [main] - Admin service accepting connections on tcp://10.0.0.10:3035/
+16:36:55.468 INFO  [main] - Server accepting connections on rmi://10.0.0.10:1099/
+16:36:55.469 INFO  [main] - JNDI service accepting connections on rmi://10.0.0.10:1099/
+16:36:55.469 INFO  [main] - Admin service accepting connections on rmi://10.0.0.10:1099/
